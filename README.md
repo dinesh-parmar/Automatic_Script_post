@@ -12,7 +12,7 @@ It also removes old collection like the collection that were created 30 days bef
 ## Format of the Document on MongoDB Collection:
 
 {
-"time": Time in String \n
-"twod_data": A 2D array \n
-"fourd_data": A 2D array with gaps at random places \n
+"time": <Time in String> \n
+"twod_data": <A 2D array> \n
+"fourd_data": <A 2D array with gaps at random places> \n
   }
