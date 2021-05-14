@@ -1,0 +1,8 @@
+APScheduler==3.7.0
+dnspython==2.1.0
+motor==2.3.1
+numpy==1.20.1
+pymongo==3.11.3
+pytz==2021.1
+six==1.15.0
+tzlocal==2.1
